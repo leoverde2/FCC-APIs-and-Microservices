@@ -3,6 +3,7 @@
 	"author": "Leonardo Boeri",
 	"description": "I don't know what I'm doing",
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
